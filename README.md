@@ -1,6 +1,8 @@
 # Alert
 Alerts/Modals
 
+#cdn
+https://raw.githack.com/OrozcoOscar/Alert/main/Alert.js
 
 ### _**alert**_
 > Crea una alerta personalizada.
