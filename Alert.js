@@ -124,7 +124,7 @@ class Alert {
     }
     static close(e) {
        try{
-        this.opction.filter(op=>op.name==e)[0].onclick()
+        this.#opction.filter(op=>op.name==e)[0].onclick()
        }catch(e){
         console.error("onclick is undefined")
        }
